@@ -1,3 +1,6 @@
+### 3.0.0-Andromeda - 24.01.2017
+* Full Framework, Windows debugger for F#, VB and C#.
+
 ### 2.22.0 - 02.02.2017
 * Add union match patter case generator
 * Try to fix proxy bug
